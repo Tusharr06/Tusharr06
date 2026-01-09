@@ -68,7 +68,6 @@ I recently started contributing to **open source**, learning how real-world syst
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -80,7 +79,7 @@ I recently started contributing to **open source**, learning how real-world syst
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=Tusharr06&theme=dark"
+    src="https://streak-stats.demolab.com?user=Tusharr06&theme=dark"
     alt="GitHub streak"
   />
 </p>
@@ -91,6 +90,7 @@ I recently started contributing to **open source**, learning how real-world syst
     alt="Top languages"
   />
 </p>
+
 
 
 
