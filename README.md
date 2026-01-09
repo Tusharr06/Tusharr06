@@ -72,17 +72,27 @@ I recently started contributing to **open source**, learning how real-world syst
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusharr06&theme=github_dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Tusharr06&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tusharr06&theme=github_dark&utcOffset=5.5" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Tusharr06&theme=dark"
+    alt="GitHub streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tusharr06&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tusharr06&theme=github_dark" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharr06&layout=compact&theme=dark"
+    alt="Top languages"
+  />
 </p>
+
+
 
 ---
 
