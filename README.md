@@ -1,18 +1,103 @@
-# 💫 About Me:
-🔭 I’m currently working on Backend Technologies And Framework<br>🌱 I’m currently learning Spring Framework
+<h1 align="center">🦇 TUSHAR</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=700&color=F5C518&center=true&vCenter=true&width=750&lines=Backend+Engineer;Flutter+Developer;AI+%26+ML+Explorer;Open+Source+Contributor" />
+</p>
 
+## 🦇 About Me
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tusharr06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tusharr06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharr06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,python,postgres,git,github&theme=dark" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tusharr06&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Hi, I’m **Tushar**.  
+I build **powerful backends**, **clean mobile apps**, and I’m diving deep into **AI & Machine Learning**.  
+I recently started contributing to **open source**, learning how real-world systems are built and scaled.
+
+### 🛠 Currently Operating In
+- ⚙️ **Backend Engineering** — Java, Spring Boot, REST APIs  
+- 📱 **Flutter** — cross-platform apps with clean architecture  
+- 🧠 **AI / ML** — models, data, and intelligent features  
+- 🌑 Always learning. Always building.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tusharr06&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚙️ Tech Stack (Dark Arsenal)
+
+### 🏗 Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=swagger&logoColor=F5C518"/>
+  <img src="https://img.shields.io/badge/JPA%20%2F%20Hibernate-1C1C1C?style=for-the-badge&logo=hibernate&logoColor=F5C518"/>
+</p>
+
+---
+
+### 📱 Flutter Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Riverpod-000000?style=for-the-badge&logoColor=F5C518"/>
+  <img src="https://img.shields.io/badge/Provider-000000?style=for-the-badge&logoColor=F5C518"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-1C1C1C?style=for-the-badge&logoColor=F5C518"/>
+</p>
+
+---
+
+### 🧠 AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logoColor=F5C518"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-1C1C1C?style=for-the-badge&logoColor=F5C518"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-000000?style=for-the-badge&logoColor=F5C518"/>
+</p>
+
+---
+
+## 🐍 WATCH ME CODE
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tusharr06&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tusharr06&theme=github_dark&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tusharr06&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tusharr06&theme=github_dark" />
+</p>
+
+---
+
+## 🌐 Signal Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/tushar-r-b115392b2">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="mailto:tusharraju05@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>🦇 “I don’t wait for opportunities. I build them.”</b>
+</p>
