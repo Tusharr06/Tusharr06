@@ -1,4 +1,4 @@
-<h1 align="center">🦇 TUSHAR</h1>
+<h1 align="center">TUSHAR</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=700&color=F5C518&center=true&vCenter=true&width=750&lines=Backend+Engineer;Flutter+Developer;AI+%26+ML+Explorer;Open+Source+Contributor" />
 </p>
@@ -21,7 +21,7 @@ I recently started contributing to **open source**, learning how real-world syst
 
 ---
 
-## ⚙️ Tech Stack (Dark Arsenal)
+## ⚙️ Tech Stack
 
 ### 🏗 Backend & APIs
 <p>
